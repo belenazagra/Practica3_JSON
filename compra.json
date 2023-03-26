@@ -1,0 +1,65 @@
+{
+    "supermercados": [
+    {
+        "nombre": "lidl",
+        "direccion":"Avenida de Francia, 10, 50003 Zaragoza",
+        "geolocalizacion": [
+            "41°39'45.0 N",
+            "0°54'23.7 W"
+        ],
+        "productos": [
+            {
+                "nombre":"tomate",
+                "oferta":"0,80€/kg",
+                "periodoDeVigencia":"08/04/2024 - 16/04/2024",
+                "productosSinOferta":true,
+                "unidades":4,
+                "unidadDeMedida":"Gramos",
+                "precio":"1€/kg",
+                "adquirido":false
+            },
+            {
+                "nombre":"albondigas",
+                "oferta":"4,50€/kg",
+                "periodoDeVigencia":"08/04/2024 - 16/04/2024",
+                "productosSinOferta":false,
+                "unidades":12,
+                "unidadDeMedida":"Gramos",
+                "precio":"5€/kg",
+                "adquirido":false
+            }
+        ]
+    },
+    
+    {
+        "nombre": "Mercadona",
+        "direccion":"Avenida Almozara, 69, 50003 Zaragoza",
+        "geolocalizacion": [
+            "41°39'49.7 N",
+            "0°54'21.5 W"
+        ],
+        "productos": [
+            {
+                "nombre":"pepino",
+                "oferta":"0,70€/kg",
+                "periodoDeVigencia":"06/04/2024 - 10/04/2024",
+                "productosSinOferta":true,
+                "unidades":2,
+                "unidadDeMedida":"Gramos",
+                "precio":"0,80€/kg",
+                "adquirido":false
+            },
+            {
+                "nombre":"pechugas",
+                "oferta":"3,50€/kg",
+                "periodoDeVigencia":"06/04/2024 - 10/04/2024",
+                "productosSinOferta":true,
+                "unidades":6,
+                "unidadDeMedida":"Gramos",
+                "precio":"5€/kg",
+                "adquirido":false
+            }
+        ]
+    }
+    ]
+}

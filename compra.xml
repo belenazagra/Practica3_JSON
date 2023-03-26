@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<nombre>lidl</nombre>
+	<direccion>Avenida de Francia, 10, 50003 Zaragoza</direccion>
+	<geolocalizacion>41°39'45.0 N</geolocalizacion>
+	<geolocalizacion>0°54'23.7 W</geolocalizacion>
+	<productos>
+		<nombre>tomate</nombre>
+		<oferta>0,80€/kg</oferta>
+		<periodoDeVigencia>08/04/2024 - 16/04/2024</periodoDeVigencia>
+		<productosSinOferta>true</productosSinOferta>
+		<unidades>4</unidades>
+		<unidadDeMedida>Gramos</unidadDeMedida>
+		<precio>1€/kg</precio>
+		<adquirido>false</adquirido>
+	</productos>
+	<productos>
+		<nombre>albondigas</nombre>
+		<oferta>4,50€/kg</oferta>
+		<periodoDeVigencia>08/04/2024 - 16/04/2024</periodoDeVigencia>
+		<productosSinOferta>false</productosSinOferta>
+		<unidades>12</unidades>
+		<unidadDeMedida>Gramos</unidadDeMedida>
+		<precio>5€/kg</precio>
+		<adquirido>false</adquirido>
+	</productos>
+</root>
